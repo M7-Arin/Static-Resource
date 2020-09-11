@@ -7,7 +7,6 @@ body {
   );
 }
 
-/*滚动条*/
 ::-webkit-scrollbar-track {
   background-color: rgba(73, 177, 245, 0.2);
   border-radius: 2em;
@@ -27,11 +26,11 @@ body {
   border-radius: 2em;
 }
 ::-webkit-scrollbar-corner {
-  background-color: transparent;
+    background-color: transparent;
 }
 ::-moz-selection {
-  color: #fff;
-  background-color: #49b1f5;
+    color: #fff;
+    background-color: #49b1f5;
 }
 
 /*暂时无用*/
